@@ -30,8 +30,8 @@ and then:
 WEIGHT 30.2
 
 ## Known Limitations
-Only basic START and STATUS endpoints are implemented
-The API currently supports one cycle at a time
-Status updates are simple and not real-time
-Error handling and automatic recovery are still basic
-The API has only been tested on the local network
+Only basic START and STATUS endpoints are implemented.
+The API currently supports one cycle at a time.
+Status updates are simple and not real-time.
+Error handling and automatic recovery are still basic.
+The API has only been tested on the local network.
